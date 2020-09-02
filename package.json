@@ -4,7 +4,7 @@
   "description": "Made with create-react-library",
   "author": "gps",
   "license": "MIT",
-  "repository": "gerardoperezsoria/colored-heading",
+  "repository": "gerardoperezsoria/componentegithub",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
